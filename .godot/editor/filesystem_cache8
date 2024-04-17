@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1713366854
+icon.svg::CompressedTexture2D::2536296410497851527::1708110378::1708110386::1::::<><>::
+UI.gd::GDScript::-1::1708348175::0::1::::<>Control<>::
+UI.tscn::PackedScene::4027859307110215188::1708412126::0::1::::<><>::res://UI.gd
+::res://ActionPlanner/::1708412126
+Action.gd::GDScript::-1::1708348333::0::1::::Action<>Resource<>::
+ActionPlanner.gd::GDScript::-1::1708412126::0::1::::ActionPlanner<>Resource<>::
+Plan.gd::GDScript::-1::1708348028::0::1::::Plan<>RefCounted<>::
